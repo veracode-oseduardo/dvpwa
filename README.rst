@@ -1,5 +1,5 @@
 ===============================================
-DVPWA -- Damn Vulnerable Python Web Application
+DVPWA -- Damn Vulnerable Python Web Application - Prueba Oscar
 ===============================================
 
 .. image:: https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg
